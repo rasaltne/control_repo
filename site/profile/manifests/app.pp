@@ -1,2 +1,2 @@
-call profile::app {
+class profile::app {
 }
